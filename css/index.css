@@ -1,3 +1,18 @@
+.desktop-layout {
+    position: relative;
+    width: auto;
+    background-color: #ffffff;
+}
+
+@media(max-width: 768px){
+    .desktop-layout{
+        position: relative;
+        width: 390px;
+        background-color: #ffffff;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 .image1{ position: absolute;
     left:80px ; 
     top: 323px; 
