@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@600&display=swap');
 .frame {
     position: relative;
-    width: 1440px;
+    width: auto;
     background-color: #ffffff;
 }
 
